@@ -1,0 +1,49 @@
+(System Information Report)
+
+--------------------------------------------------------------------------------------------------------------------------
+Installation Database
+
+Step 1 - Install Xamp (you can google and download installer)
+Step 2 - Open browsers and go to http://localhost/phpmyadmin/
+Step 3 - Click "New" and fill in "Database SQL Name" from the SQL Database Folder then click create
+Step 4 - Next click choose file and choose SQL file from the SQL Database then click "GO"
+=======================================================================================================
+Installation Websystem
+
+Step 1 - open C:\xampp\htdocs\
+Step 2 - Copy Website System Folder to C:\xampp\htdocs\
+Step 3 - open browsers and go to address localhost/WebsiteSystemName/root/index.php
+=======================================================================================================
+---------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================
+(System Description)
+
+The Web system is about a Report for office employee. The system report works really 
+simple and easy to underdstand. To used the system, admin must first insert user employee 
+to database then employee just login and typing a report with picture or without picture.
+Employee does't need to register because admin is already registre for you. The system works
+100% and been tested several times.
+========================================================================================================
+(System Suitability) 
+
+suitable for 
+- Used for company as a system report.
+- Used by Bos or Admin report as a reference.
+- Used as a system report for work activity or project.
+- Available for web hosting with SQL Database Server.
+========================================================================================================
+(System Requirement)
+
+Support with
+
+- Any OS from xp to window 10.
+- Support any browsers for window.
+- Available with all Computer that support OS.
+- Internet Connection.
+========================================================================================================
+(Testing connection)
+
+p to p
+http://serveripaddress/filelocation/index.php
+========================================================================================================
